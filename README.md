@@ -13,7 +13,9 @@ B) Download the Dart SDK
 C) Update your PATH
 D) Run Dart Doctor
 
-B
+B) Download the Dart SDK
+
+
 
 
 2. Which command verifies the Dart installation on macOS?
@@ -23,7 +25,7 @@ B) dart --check
 C) dart --verify
 D) dart --version
 
-D
+D) dart --version
 
 
 3. What is the next step after downloading and extracting the Flutter SDK on Linux?
@@ -33,7 +35,7 @@ B) Update your PATH
 C) Run Flutter Doctor
 D) Create a new Flutter project
 
-B
+B) Update your PATH
 
 
 
@@ -44,7 +46,7 @@ B) flutter build
 C) flutter run
 D) flutter init
 
-C
+C) flutter run
 
 
 #Python Installation
@@ -56,7 +58,7 @@ B) Download Python from the official website
 C) Open the terminal and type sudo apt install python
 D) Install pip manually
 
-B
+B) Download Python from the official website
 
 Which option should you ensure is checked during Python installation on Windows?
 
@@ -65,7 +67,7 @@ B) Install to a custom directory
 C) Add Python to PATH
 D) Install all available features
 
-C
+C) Add Python to PATH
 
 How do you verify Python installation on any system?
 
@@ -74,7 +76,7 @@ B) By restarting your computer
 C) By opening the Python installer again
 D) By checking the Programs and Features in Control Panel
 
-A
+A) By running python --version
 
 What command is used to install pip on macOS and Linux?
 
@@ -83,7 +85,7 @@ B) pip install python
 C) curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 D) python --install pip
 
-C
+C) curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 
 What is the purpose of a virtual environment in Python?
 
@@ -92,7 +94,7 @@ B) To install Python in a different directory
 C) To separate project dependencies and avoid conflicts
 D) To enhance Python performance on your system
 
-C
+C) To separate project dependencies and avoid conflicts
 
 #MySQL Installation
 
@@ -103,7 +105,7 @@ B) Download MySQL Installer from the official website
 C) Install MySQL Workbench
 D) Set up a root password
 
-B
+B) Download MySQL Installer from the official website
 
 What setup type should you choose for a custom MySQL installation?
 
@@ -112,7 +114,7 @@ B) Server Only
 C) Full
 D) Custom
 
-D
+D) Custom
 
 Which products should you select during the MySQL installation?
 
@@ -121,7 +123,7 @@ B) Only MySQL Server
 C) MySQL Server and MySQL Router
 D) MySQL Workbench and MySQL Utilities
 
-A
+A) MySQL Server, MySQL Workbench, and MySQL Shell
 
 What is the purpose of setting a root password during MySQL installation?
 
@@ -130,7 +132,7 @@ B) To secure your MySQL installation with a super-secret password
 C) To activate MySQL Workbench
 D) To allow multiple users to access MySQL
 
-B
+B) To secure your MySQL installation with a super-secret password
 
 How do you begin managing your database after installing MySQL?
 
@@ -139,4 +141,4 @@ B) Launch MySQL Workbench and connect to your MySQL Server
 C) Run mysqladmin start in the terminal
 D) Restart your computer to activate MySQL
 
-B
+B) Launch MySQL Workbench and connect to your MySQL Server
